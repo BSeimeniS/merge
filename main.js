@@ -3,3 +3,5 @@ var truth = "Hello TO THE MOON";
 var truth = "Hello TO THE Flat Earth";
 var truth = "All ok";
 var false ="I want all to do"
+var true = "I like your changes"
+var num = 100;
